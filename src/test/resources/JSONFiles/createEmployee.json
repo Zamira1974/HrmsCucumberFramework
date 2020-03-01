@@ -1,9 +1,9 @@
-{
-  "emp_firstname": "Mao",
-  "emp_lastname": "Zedong",
-  "emp_middle_name": "chinesse",
+
+  "emp_firstname": "Aleksandr",
+  "emp_lastname": "Pushkin1",
+  "emp_middle_name": "Velikiy",
   "emp_gender": "1",
-  "emp_birthday": "1935-09-09",
+  "emp_birthday": "1959-06-06",
   "emp_status": "Employee",
   "emp_job_title": "Developer"
 }
